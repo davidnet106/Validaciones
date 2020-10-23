@@ -1,0 +1,10 @@
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\bin\Debug\validaciones.exe.config
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\bin\Debug\validaciones.exe
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\bin\Debug\validaciones.pdb
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.csprojAssemblyReference.cache
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.Form1.resources
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.Properties.Resources.resources
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.csproj.GenerateResource.cache
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.csproj.CoreCompileInputs.cache
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.exe
+C:\Users\eleanor garage\source\repos\validaciones\validaciones\obj\Debug\validaciones.pdb
